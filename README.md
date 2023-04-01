@@ -10,7 +10,7 @@ As an experienced web developer, I possess a broad range of skills in developing
 
 ## [The Landing Web Framework](https://github.com/evbkv/lwf)
 
-Framework of landing page which work with some languages and have different content blocks — texts, images, 360 deg, banners and other. It have MVC structure and writen on php.
+Framework of landing page which would support multiple languages and have different content blocks — texts, images, 360 deg, banners and other. It have MVC structure and writen on php.
 
 ## [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
 
