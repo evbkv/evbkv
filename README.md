@@ -15,3 +15,7 @@ Framework of landing page which would support multiple languages and have differ
 ## [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
 
 The templet of web page in Instagram style. It’s a simple templet with menu and content sections, search and full content views. Created with HTML5, CSS3, JavaScript, Bootstrap v5.
+
+## [BrandsLaravelTmp](https://github.com/evbkv/BrandsLaravelTmp)
+
+This is a Laravel web application template featuring a user section as a Single-Page Application (SPA) with an Instagram-like interface, including endless feed, search, rubricator, and full-screen content viewing. It uses the InstHtmlTmp HTML template and JavaScript functions for SPA functionality, providing a customizable framework for building web apps with different user roles and a theme adaptable to specific project needs.
