@@ -1,21 +1,46 @@
-# About me
+# Full Stack PHP Developer
 
-Greetings, I am a skilled junior+ software developer with a professional background. However, I have over 10 years of extensive development experience working as a non-professional on various personal projects, startups, and business ventures.
+Experienced Full Stack Developer with 10+ years in web development, specializing in lightweight, high-performance PHP frameworks and SEO-optimized solutions. Proven expertise in end-to-end project development from concept to deployment, with strong focus on clean architecture and technical excellence.
 
-As an experienced web developer, I possess a broad range of skills in developing websites, from landing pages to BPMS and CMS. I am proficient in utilizing programming languages such as PHP, JavaScript, Python, Java, C#, ASP.NET, SQL, MySQL, MS SQL, JSON, HTML5, CSS3, JQuery, AngularJS, Laravel, React, and Bootstrap. I also have experience in utilizing various tools such as Keras, OpenCV, git/github, and npm, as well as in developing WordPress and WooCommerce websites and PWA. Additionally, I am a professional user of Windows, Linux, and MacOSX operating systems, and proficient in using software applications such as 3dsmax, Corona Renderer, Photoshop, CoralDraw, AutoCad, Figma, and Canva. Moreover, I have Autodesk Certifications to showcase my proficiency in the field.
+## 🛠️ Technical Stack
 
-[Full stack software developer CV](https://github.com/evbkv/evbkv/blob/main/CV_Fullstack_Evgenii_Bykov.pdf)
+**Backend:** PHP, Laravel, WordPress, MySQL/MariaDB, RESTful APIs
+**Frontend:** JavaScript, React, AngularJS, jQuery, HTML5/CSS3, Bootstrap
+**DevOps & Tools:** Git, npm, Linux/Windows environments
+**Design & 3D:** Figma, Photoshop, CorelDraw, AutoCAD, 3ds Max
 
-# My public projects
+## 💡 Core Competencies
 
-## [The Landing Web Framework](https://github.com/evbkv/lwf)
+* Custom Framework Development
+* SEO Optimization & Technical Marketing
+* MVC Architecture & Clean Code Principles
+* WordPress/WooCommerce Solutions
+* Performance Optimization
+* Cross-platform Development
 
-Framework of landing page which would support multiple languages and have different content blocks — texts, images, 360 deg, banners and other. It have MVC structure and writen on php.
+## 🚀 Featured Projects
 
-## [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
+### [LWF - Landing Web Framework](https://github.com/evbkv/lwf)
+Multi-language PHP MVC framework for creating high-conversion landing pages with modular content blocks, 360° media support, and responsive design.
 
-The templet of web page in Instagram style. It’s a simple templet with menu and content sections, search and full content views. Created with HTML5, CSS3, JavaScript, Bootstrap v5.
+### [MicroBlogger (MB)](https://github.com/evbkv/mb) 
+Lightweight SEO-optimized blogging platform featuring automatic schema markup, Open Graph integration, and Bootstrap 5 admin interface.
 
-## [BrandsLaravelTmp](https://github.com/evbkv/BrandsLaravelTmp)
+### [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
+HTML5/CSS3/JavaScript template for social media-style web applications with responsive design and modern UI components.
 
-This is a Laravel web application template featuring a user section as a Single-Page Application (SPA) with an Instagram-like interface, including endless feed, search, rubricator, and full-screen content viewing. It uses the InstHtmlTmp HTML template and JavaScript functions for SPA functionality, providing a customizable framework for building web apps with different user roles and a theme adaptable to specific project needs.
+## 📈 Professional Journey
+
+* **Full Stack Developer** (Freelance, 2022-Present) - Custom web solutions and framework development
+* **Software Development** (Vocational Education, Estonia 2021-2023) - Formal training in modern development practices
+* **Entrepreneur** (2002-Present) - Business system architecture and digital transformation
+
+## 🎯 Career Objectives
+
+Seeking full-time or contract positions as **Full Stack Developer**, **PHP Architect**, or **Web Solutions Engineer**. Open to remote opportunities in North America and Europe.
+
+[View Full CV](https://github.com/evbkv/evbkv/blob/main/CV_Fullstack_Evgenii_Bykov.pdf)
+
+---
+
+*Building scalable web solutions with performance-driven architecture and user-centric design.*
