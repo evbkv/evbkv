@@ -29,6 +29,9 @@ Lightweight SEO-optimized blogging platform featuring automatic schema markup, O
 ### [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
 HTML5/CSS3/JavaScript template for social media-style web applications with responsive design and modern UI components.
 
+### [Academic HTML 4.01 Template](https://github.com/evbkv/ahtml401tmp)
+Academic HTML 4.01 Template: Lightweight, standards-compliant template for academic projects and documentation. Full legacy browser compatibility with responsive design. Ideal for research papers and historical archives.
+
 ## 📈 Professional Journey
 
 * **Full Stack Developer** (Freelance, 2022-Present) - Custom web solutions and framework development
