@@ -26,6 +26,9 @@ Multi-language PHP MVC framework for creating high-conversion landing pages with
 ### [MicroBlogger (MB)](https://github.com/evbkv/mb) 
 Lightweight SEO-optimized blogging platform featuring automatic schema markup, Open Graph integration, and Bootstrap 5 admin interface.
 
+### [MiniMVC](https://github.com/evbkv/MiniMVC) 
+A minimalistic MVC/CRUD PHP framework designed for small-load web applications that do not process sensitive or confidential data.
+
 ### [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
 HTML5/CSS3/JavaScript template for social media-style web applications with responsive design and modern UI components.
 
