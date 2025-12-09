@@ -35,6 +35,9 @@ HTML5/CSS3/JavaScript template for social media-style web applications with resp
 ### [Academic HTML 4.01 Template](https://github.com/evbkv/ahtml401tmp)
 Academic HTML 4.01 Template: Lightweight, standards-compliant template for academic projects and documentation. Full legacy browser compatibility with responsive design. Ideal for research papers and historical archives.
 
+### [Code Collector](https://github.com/evbkv/collector)
+Code Collector is a Windows batch script that recursively traverses a directory structure, collects all source code files, and consolidates them into a single text document.
+
 ## 📈 Professional Journey
 
 * **Full Stack Developer** (Freelance, 2022-Present) - Custom web solutions and framework development
