@@ -14,7 +14,7 @@ Experienced Full Stack Developer with 10+ years in web development, specializing
 * Custom Framework Development
 * SEO Optimization & Technical Marketing
 * MVC Architecture & Clean Code Principles
-* WordPress/WooCommerce Solutions
+* WordPress Solutions
 * Performance Optimization
 * Cross-platform Development
 
