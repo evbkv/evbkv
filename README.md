@@ -2,14 +2,14 @@
 
 Experienced Full Stack Developer with 10+ years in web development, specializing in lightweight, high-performance PHP frameworks and SEO-optimized solutions. Proven expertise in end-to-end project development from concept to deployment, with strong focus on clean architecture and technical excellence.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Backend:** PHP, Laravel, WordPress, MySQL/MariaDB, RESTful APIs
 **Frontend:** JavaScript, React, AngularJS, jQuery, HTML5/CSS3, Bootstrap
 **DevOps & Tools:** Git, npm, Linux/Windows environments
 **Design & 3D:** Figma, Photoshop, CorelDraw, AutoCAD, 3ds Max
 
-## 💡 Core Competencies
+## Core Competencies
 
 * Custom Framework Development
 * SEO Optimization & Technical Marketing
@@ -18,7 +18,7 @@ Experienced Full Stack Developer with 10+ years in web development, specializing
 * Performance Optimization
 * Cross-platform Development
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [LWF - Landing Web Framework](https://github.com/evbkv/lwf)
 Multi-language PHP MVC framework for creating high-conversion landing pages with modular content blocks, 360° media support, and responsive design.
@@ -41,18 +41,14 @@ A minimal, custom-built Linux operating system designed for educational purposes
 ### [Code Collector](https://github.com/evbkv/collector)
 Code Collector is a Windows batch script that recursively traverses a directory structure, collects all source code files, and consolidates them into a single text document.
 
-## 📈 Professional Journey
+## Professional Journey
 
 * **Full Stack Developer** (Freelance, 2022-Present) - Custom web solutions and framework development
 * **Software Development** (Vocational Education, Estonia 2021-2023) - Formal training in modern development practices
 * **Entrepreneur** (2002-Present) - Business system architecture and digital transformation
 
-## 🎯 Career Objectives
+## Career Objectives
 
 Seeking full-time or contract positions as **Full Stack Developer**, **PHP Architect**, or **Web Solutions Engineer**. Open to remote opportunities in North America and Europe.
 
 [View Full CV](https://github.com/evbkv/evbkv/blob/main/CV_Fullstack_Evgenii_Bykov.pdf)
-
----
-
-*Building scalable web solutions with performance-driven architecture and user-centric design.*
