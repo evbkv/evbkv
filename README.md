@@ -20,25 +20,31 @@ Experienced Full Stack Developer with 10+ years in web development, specializing
 
 ## Featured Projects
 
-### [LWF - Landing Web Framework](https://github.com/evbkv/lwf)
+### Frameworks
+
+**[LWF - Landing Web Framework](https://github.com/evbkv/lwf)**
 Multi-language PHP MVC framework for creating high-conversion landing pages with modular content blocks, 360° media support, and responsive design.
 
-### [MicroBlogger (MB)](https://github.com/evbkv/mb) 
+**[MicroBlogger (MB)](https://github.com/evbkv/mb)**
 Lightweight SEO-optimized blogging platform featuring automatic schema markup, Open Graph integration, and Bootstrap 5 admin interface.
 
-### [MiniMVC](https://github.com/evbkv/MiniMVC) 
+**[MiniMVC](https://github.com/evbkv/MiniMVC)**
 A minimalistic MVC/CRUD PHP framework designed for small-load web applications that do not process sensitive or confidential data.
 
-### [InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)
+### Themes
+
+**[InstHtmlTmp](https://github.com/evbkv/InstHtmlTmp)**
 HTML5/CSS3/JavaScript template for social media-style web applications with responsive design and modern UI components.
 
-### [Academic HTML 4.01 Template](https://github.com/evbkv/ahtml401tmp)
+**[Academic HTML 4.01 Template](https://github.com/evbkv/ahtml401tmp)**
 Academic HTML 4.01 Template: Lightweight, standards-compliant template for academic projects and documentation. Full legacy browser compatibility with responsive design. Ideal for research papers and historical archives.
 
-### [Minimal Linux + BusyBox + SysV System](https://github.com/evbkv/lbs)
+### Utilities
+
+**[Minimal Linux + BusyBox + SysV System](https://github.com/evbkv/lbs)**
 A minimal, custom-built Linux operating system designed for educational purposes and lightweight deployment.
 
-### [Code Collector](https://github.com/evbkv/collector)
+**[Code Collector](https://github.com/evbkv/collector)**
 Code Collector is a Windows batch script that recursively traverses a directory structure, collects all source code files, and consolidates them into a single text document.
 
 ## Professional Journey
